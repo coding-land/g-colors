@@ -2,7 +2,7 @@
 
 .preloader{
     border-top: 4px solid white;
-    border-right: 4px solid white;
+    border-right: 4px solid #108B91;
     border-bottom: 4px solid #108B91;
     width: 50px;
     position: absolute;
@@ -11,7 +11,7 @@
     transform: translate(-50%, -50%);
     height: 50px;
     border-radius: 50%;
-    border-left: 4px solid white;
+    border-left: 4px solid #108B91;
     animation-name: moving;
     animation-iteration-count: infinite;
     animation-duration: 1s;
